@@ -1,0 +1,5 @@
+Instrucciones para la ejecución correcta del programa
+
+1. Cambiar la contraseña y usuario de la base de datos en el archivo inde.js del BackEnd con sus respectivos datos
+2. Debe de registrar un estudiante desde POSTMAN o la base de datos para el front
+3. Logearse con el email y la contraseña creada
